@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Java, Flutter**
+- 💬 Ask me about **Java,Flutter**
 
 - 📫 How to reach me **dlpmalshan@gmail.com**
 
