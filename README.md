@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dileepa Malshan</h1>
+<h1 align="center">Hi👋, I'm Dileepa Malshan</h1>
 <h3 align="center">A passionate SE From Srilanka 🇱🇰 </h3>
 
 - 🌱 I’m currently learning **Swift**
