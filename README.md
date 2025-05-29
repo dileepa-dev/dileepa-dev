@@ -1,9 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0A66C2;">Dileepa Malshan</span></h1>
-<h3 align="center">💻 Undergraduate Software Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Undergraduate Software Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dlpmalshan&label=Profile%20views&color=0e75b6&style=flat" alt="dlpmalshan" />
-  <img src="https://img.shields.io/github/followers/dlpmalshan?label=Followers&style=social" alt="followers"/>
 </p>
 
 ### 🚀 About Me
