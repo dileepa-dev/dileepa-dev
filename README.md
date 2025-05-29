@@ -1,17 +1,19 @@
-<h1 align="center">Hello👋, I'm Dileepa Malshan</h1>
-<h3 align="center">An Undergraduate Software developer from SriLanka 🇱🇰</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#0A66C2;">Dileepa Malshan</span></h1>
+<h3 align="center">💻 Undergraduate Software Developer from Sri Lanka 🇱🇰</h3>
 
-- 🔭 I’m currently working on **Hsenid Software Lanka**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dlpmalshan&label=Profile%20views&color=0e75b6&style=flat" alt="dlpmalshan" />
+  <img src="https://img.shields.io/github/followers/dlpmalshan?label=Followers&style=social" alt="followers"/>
+</p>
 
-- 🌱 I’m currently learning **Swift, Next JS**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://portfolio-2025-two-tau.vercel.app](https://portfolio-2025-two-tau.vercel.app)
+- 🔭 I’m currently working at **Hsenid Software Lanka**
+- 🌱 Exploring and building with **Swift** & **Next.js**
+- 📫 Reach me at: **dlpmalshan@gmail.com**
+- 📂 All my projects are available here: [🌐Portfolio](https://portfolio-2025-two-tau.vercel.app)
+- 📄 Know more about my experience: [📃 My Resume](https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing)
 
-- 📫 How to reach me **dlpmalshan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing](https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing)
-
-- ⚡ Fun fact **Why do Java developers wear glasses? Because they can't C#! 👓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
