@@ -6,14 +6,12 @@
 
 <h3 align="center">About Me 🚀 </h3>
 
-<div style="padding-left: 100px;">
 - 📚 I’m currently An Undergraduate at **University of Westminster**
 - 🕹️ Interested In Mobile and web Development
 - 🌱 Exploring and building with **Swift** & **Next.js**  
 - 📫 Reach me at: **dlpmalshan@gmail.com**  
 - 📂 All my projects are available here: [🌐Portfolio](https://portfolio-2025-two-tau.vercel.app)  
 - 📄 Know more about my experience: [📃 My Resume](https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing)
-</div>
 
 <br/>
 <h3 align="center">Connect with me 📱 </h3>
