@@ -6,17 +6,24 @@
 
 <h3 align="center">About Me 🚀 </h3>
 
-- 🔭 I’m currently working at **Hsenid Software Lanka**
-- 🌱 Exploring and building with **Swift** & **Next.js**
-- 📫 Reach me at: **dlpmalshan@gmail.com**
-- 📂 All my projects are available here: [🌐Portfolio](https://portfolio-2025-two-tau.vercel.app)
+<div style="padding-left: 100px;">
+
+- 🔭 I’m currently working at **Hsenid Software Lanka**  
+- 🌱 Exploring and building with **Swift** & **Next.js**  
+- 📫 Reach me at: **dlpmalshan@gmail.com**  
+- 📂 All my projects are available here: [🌐Portfolio](https://portfolio-2025-two-tau.vercel.app)  
 - 📄 Know more about my experience: [📃 My Resume](https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing)
 
+</div>
 <br/>
 <h3 align="center">Connect with me 📱 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/dileepa malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileepa malshan" height="30" width="40" /></a>
 <a href="https://fb.com/dileepa malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dileepa malshan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/koshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="koshi" height="30" width="40" /></a>
+<a href="https://instagram.com/_dileepa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dileepa._" height="30" width="40" /></a>
+<a href="https://medium.com/dileepa malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dileepa malshan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dileepa malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dileepa malshan" height="30" width="40" /></a>
 </p>
 
 <br/>
