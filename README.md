@@ -14,7 +14,7 @@
 - 📄 Know more about my experience: [📃 My Resume](https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing)
 
 <br/>
-<h3 align="center">Connect with me 📱</h3>
+<h3 align="center">Connect with me 📱 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/dileepa malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileepa malshan" height="30" width="40" /></a>
 <a href="https://fb.com/dileepa malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dileepa malshan" height="30" width="40" /></a>
