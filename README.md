@@ -6,14 +6,14 @@
 
 <h3 align="center">About Me 🚀</h3>
 
-- 📚I’m currently An Undergraduate at **University of Westminster**
-- 🕹️ Interested In Mobile and web Development 
+- 📚I’m An Fresh Graduate at **University of Westminster**
+- 🕹️ Interested In Android/Ios Development and web Development
 - 🌱 Exploring and building with **Swift** & **Next.js**  
 - 📫 Reach me at: **dlpmalshan@gmail.com**  
 - 📂 All my projects are available here: [🌐 Portfolio](https://portfolio-2025-two-tau.vercel.app)  
 - 📄 Know more about my experience: [📃 My Resume](https://drive.google.com/file/d/1l-dmDZ058cdrLhBCg5MH32txx1SyORT0/view?usp=sharing)
 <br/>
-<h3 align="center">Connect With me 📱</h3>
+<h3 align="center">Connect With me 📱 +94773613102</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dileepamalshan" target="_blank">
