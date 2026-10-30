@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dileepa-dev/dileepa-dev/refs/heads/main/banner%20.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/dileepa-dev/dileepa-dev/refs/heads/main/1.png" alt="1" width="100%" />
 
 <img align="left" src="https://houseconmin.gov.lk/wp-content/uploads/2018/02/Sri-Lanka-flag-XXL-anim.gif" width="10%" style="display:inline;"><img align="right" src="https://houseconmin.gov.lk/wp-content/uploads/2018/02/Sri-Lanka-flag-XXL-anim.gif" width="10%" style="display:inline;">
 
