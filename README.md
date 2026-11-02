@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dileepa Malshan</h1>
+<h1 align="center">Hi 👋, I'm Dileepa Malshan </h1>
 <h3 align="center">Software Developer from Srilanka 🇱🇰 </h3>
 <img src="https://raw.githubusercontent.com/dileepa-dev/dileepa-dev/refs/heads/main/bannernew.png" alt="1" width="100%" />
 
